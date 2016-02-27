@@ -22,7 +22,12 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #18bc9c;
+    color: #19bc9c;
+}
+
+.github-link {
+  position: relative;
+  left: 35%;
 }
 
 h1,
@@ -92,7 +97,7 @@ header .container {
 
 .profile-img {
     height: 320px;
-    border-radius: 55%;
+    border-radius: 57%;
 }
 
 header img {
